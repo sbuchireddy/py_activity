@@ -1,0 +1,9 @@
+x=5
+y=7
+x=x+y
+print(x)
+y=x-y
+print(y)
+x=x-y
+print(x)
+print(x,y)
