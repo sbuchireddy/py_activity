@@ -14,4 +14,7 @@ print("initial list:",sieve)
 #eliminating multiples of 2
 sieve=[x for x in sieve if x==2 or x%2 !=0]
 print("iteration 1 after eliminating multiples of 2:",sieve)
+sieve=[x for x in sieve if x==3 or x%3!=0]
+print("iteration 2 after eliminating multiples of 3:",sieve)
+
 
