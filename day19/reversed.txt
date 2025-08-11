@@ -1,0 +1,2 @@
+a simple text filethis is python
+a reversing lines of a sentence
